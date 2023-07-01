@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Vim Adventures</title>
+  <link rel="stylesheet" type="text/css" href="styles.css">
+</head>
+<body>
+  <h1>Vim Adventures</h1>
+  <div id="game-container">
+    <!-- Game elements dynamically rendered using JavaScript -->
+  </div>
+
+  <script src="game.js"></script>
+</body>
+</html>
